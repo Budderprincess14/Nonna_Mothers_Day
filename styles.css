@@ -39,6 +39,7 @@ body {
   width: 600px;
   margin: 0, auto;
   padding: 0, 20px, 20px, 20px;
+  font-size: 2.5rem;
  }
 
 h1 {
@@ -57,10 +58,11 @@ p {
   text-indent: 5%;
  }
 
-.sig1 + .sig2 {
+.sig1 {
   text-align: right;
  }
 
 .sig2 {
+  text-align: right;
   font-style: italic;
  }
